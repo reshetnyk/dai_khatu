@@ -19,4 +19,4 @@ Contributors guide:
   * [bug] your description
   * [feature request] your description
  7. Design ideas are loceted in Design directory
- 
+ 8. Don't forget install npm in your local repository!!!
