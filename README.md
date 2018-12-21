@@ -4,11 +4,11 @@ Hi! This is a students project which helps us to learn JavaScript. If you see so
 
 Contributors guide:
 
-1. [Our dash board](https://trello.com/b/5Cf57NAZ/daikhatu)
+1. [Our dashboard](https://trello.com/dai_khatuteam)
 2. Contacts:
   * Igor - igor_ck@outlook.com [repository](https://github.com/IgorHordiichuk)
-  * Natali - [repository](https://github.com/NataliKokovina)
-  * Oleksandr - [repository](https://github.com/reshetnyk)
+  * Natali - kokovina.nat@gmail.com [repository](https://github.com/NataliKokovina)
+  * Oleksandr - olexandr.reshetnyk@gmail.com [repository](https://github.com/reshetnyk)
 3. Never commit from master!!!
 4. There are 3 brances in this repo:
   * alpha - every pull request we are waiting here
