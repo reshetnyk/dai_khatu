@@ -9,14 +9,3 @@ Contributors guide:
   * Igor - igor_ck@outlook.com [repository](https://github.com/IgorHordiichuk)
   * Natali - kokovina.nat@gmail.com [repository](https://github.com/NataliKokovina)
   * Oleksandr - olexandr.reshetnyk@gmail.com [repository](https://github.com/reshetnyk)
-3. Never commit from master!!!
-4. There are 3 brances in this repo:
-  * alpha - every pull request we are waiting here
-  * beta - fast tested code is here
-  * master - stable version
- 5. Every your idea we are waiting in issues
- 6. Issues headings:
-  * [bug] your description
-  * [feature request] your description
- 7. Design ideas are loceted in Design directory
- 8. Don't forget install npm in your local repository!!!
